@@ -1,13 +1,13 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
 
-# Run and deploy your AI Studio app
-
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/temp/1
-
+🤖 AI-Powered Code Reviewer
+AI Code Reviewer is an intelligent, browser-based tool designed to help developers get instant, context-aware feedback on their code. Built with React, TypeScript, and powered by Google’s Gemini API, this app analyzes code snippets, highlights potential issues, and suggests improvements—all in real time.
+🔍 Key Features
+- Multi-language support for reviewing code in Python, JavaScript, C++, and more
+- AI-driven suggestions for optimization, readability, and best practices
+- Offline analysis mode for reviewing code without internet access
+- PDF export of reviewed code for documentation or sharing
+- Clean, responsive UI built with Tailwind CSS and Ace Editor
+ 
 ## Run Locally
 
 **Prerequisites:**  Node.js
