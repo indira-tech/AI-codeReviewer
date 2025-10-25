@@ -1,4 +1,6 @@
-const CACHE_NAME = 'ai-code-reviewer-v10'; // Incremented cache version
+const CACHE_NAME = 'ai-code-reviewer-v10';
+// Incremented cache version
+import { SpeedInsights } from "@vercel/speed-insights/next"
 const urlsToCache = [
   '/',
   '/index.html',
